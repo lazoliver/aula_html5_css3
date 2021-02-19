@@ -14,17 +14,12 @@
 
 ## Aula 2
 
-<*!DOCTYPE html*> Informa ao navegador que o documento é do tipo *HTML5*;
-
-<*html lang='pt-br'*> Inicia a inserção de dados dentro do documento; lang='pt-br' define que o idioma é português;
-
-<*head charset="utf-8"*> Armazena as tags de meta dados; charset="utf-8" permite o navegador reproduzir elementos textuais de forma fidedigna;
-
-<*title*> É o título da página;
-
-<*body*> Tag que define o conteúdo "corpo" do documento;
-
-<*p*> Delimita um parágrafo;
+* <*!DOCTYPE html*> Informa ao navegador que o documento é do tipo *HTML5*;
+* <*html lang='pt-br'*> Inicia a inserção de dados dentro do documento; lang='pt-br' define que o idioma é português;
+* <*head charset="utf-8"*> Armazena as tags de meta dados; charset="utf-8" permite o navegador reproduzir elementos textuais de forma fidedigna;
+* <*title*> É o título da página;
+* <*body*> Tag que define o conteúdo "corpo" do documento;
+* <*p*> Delimita um parágrafo;
 
 ## Aula 3
 
